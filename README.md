@@ -1,1 +1,3 @@
-# php_helloworld1
+# OpenShift上でデプロイのデモをするための小さなPHP
+
+PHPのテンプレートを選択して、S2Iするだけ。
