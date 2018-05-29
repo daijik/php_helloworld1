@@ -6,7 +6,8 @@
 </head>
 <body>
 <?php
-    echo "こんにちは。世界！";       
+    echo "こんにちは。世界！";
+    phpinfo();
 ?>
 </body>
 </html>
